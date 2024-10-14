@@ -1,0 +1,11 @@
+{
+  "vim.statusBarColors.visualline": "",
+  "vim.statusBarColors.visualblock": "",
+  "vim.statusBarColors.visual": "",
+  "vim.handleKeys": {
+    "<C-d>": true,
+    "<C-s>": false,
+    "<C-z>": false,
+    "<C-p>": false
+  }
+}
